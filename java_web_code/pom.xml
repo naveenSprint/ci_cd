@@ -23,9 +23,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/pvorb/wildfly-spring-boot-sample</url>
-        <connection>scm:git:git://github.com/pvorb/wildfly-spring-boot-sample.git</connection>
-        <developerConnection>scm:git:git@github.com:pvorb/wildfly-spring-boot-sample.git</developerConnection>
+        <url>https://github.com/naveenSprint/ci_cd.git</url>
+        <connection>scm:git:git://github.com/naveenSprint/ci_cd.git</connection>
+        <developerConnection>scm:git:git@github.com:naveenSprint/ci_cd.git</developerConnection>
     </scm>
 
     <dependencies>
