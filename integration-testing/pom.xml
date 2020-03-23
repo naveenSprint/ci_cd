@@ -35,7 +35,7 @@
                 <!--
                     Only unit tests are run when the development profile is active
                 -->
-                <skip.integration.tests>true</skip.integration.tests>
+                <skip.integration.tests>false</skip.integration.tests>
                 <skip.unit.tests>false</skip.unit.tests>
             </properties>
         </profile>
