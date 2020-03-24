@@ -8,7 +8,7 @@ public class SampleResource {
 
     @RequestMapping("/")
     public String hello() {
-        return "Hello World! This is to showcase DevOps Automation CI&CD through Boot Camp by Naveen Kumar Muppala!";
+        return "Hello World! This is to showcase DevOps Automation through Boot Camp by Naveen Kumar Muppala!";
     }
 
 }
